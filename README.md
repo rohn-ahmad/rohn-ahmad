@@ -22,15 +22,4 @@
 
 <br/>
 
-<img src="./assets/sec-num.svg" width="100%"/>
-<img src="./assets/stats.svg" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-</div>
-
-<br/>
-
 <a href="mailto:rohaanahmad21dec@gmail.com"><img src="./assets/footer.svg" alt="Let's build something" width="100%"/></a>
