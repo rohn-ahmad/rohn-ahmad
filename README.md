@@ -8,13 +8,13 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=7c5cff&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=00d9ff&labelColor=0d1117)
-![Repos](https://img.shields.io/github/search/YOUR_USERNAME/YOUR_USERNAME?style=for-the-badge&color=ff5ca8&labelColor=0d1117&label=Repos)
+![Profile Views](https://komarev.com/ghpvc/?username=rohn-ahmad&label=PROFILE%20VIEWS&color=7c5cff&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/rohn-ahmad?style=for-the-badge&logo=github&color=00d9ff&labelColor=0d1117)
+![Repos](https://img.shields.io/github/search/rohn-ahmad/rohn-ahmad?style=for-the-badge&color=ff5ca8&labelColor=0d1117&label=Repos)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00d9ff)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohaanahmad0/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohaanahmad21dec@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00d9ff)](https://rohaanahmad.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_USERNAME)
 
