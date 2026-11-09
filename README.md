@@ -14,6 +14,8 @@
 <br/>
 
 <img src="./assets/sec-build.svg" width="100%"/>
+Project 1 
+Project 2
 
 <br/>
 
