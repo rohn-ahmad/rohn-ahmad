@@ -48,8 +48,6 @@ As a Computer Science & Engineering student at **NED University of Engineering &
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=rohn-ahmad&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&border_color=27272a&count_private=true&include_all_commits=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohn-ahmad&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=a1a1aa&border_color=27272a"/>
 
-<img src="https://streak-stats.demolab.com?user=rohn-ahmad&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=a1a1aa&dates=71717a&stroke=27272a"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohn-ahmad&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&title_color=ffffff" width="100%"/>
 
 <picture>
