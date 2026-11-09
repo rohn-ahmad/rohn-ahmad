@@ -33,12 +33,10 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=rohn-ahmad&show_icons=true&hide_border=true&bg_color=000000&title_color=ff2d2d&text_color=a1a1aa&icon_color=ff2d2d&border_color=27272a&count_private=true&include_all_commits=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohn-ahmad&layout=compact&hide_border=true&bg_color=000000&title_color=ff2d2d&text_color=a1a1aa&border_color=27272a"/>
 
-<img src="https://streak-stats.demolab.com?user=rohn-ahmad&hide_border=true&background=000000&ring=ff2d2d&fire=ff2d2d&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff2d2d&sideLabels=a1a1aa&dates=71717a&stroke=27272a"/>
-
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohn-ahmad/rohn-ahmad/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohn-ahmad/rohn-ahmad/output/github-snake.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/rohn-ahmad/rohn-ahmad/output/github-snake.svg"/>
 </picture>
 
