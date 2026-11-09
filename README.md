@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Rohaan Ahmad — Engineering The Web, Pixel By Pixel" width="100%"/>
-
 <br/>
 
 [![Email](https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=white&labelColor=000000&color=27272a)](mailto:rohaanahmad21dec@gmail.com)
@@ -17,7 +15,6 @@
 <br/>
 
 <img src="./assets/sec-works.svg" width="100%"/>
-<img src="./assets/works.svg" width="100%"/>
 
 <br/>
 
