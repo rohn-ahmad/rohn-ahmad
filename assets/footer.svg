@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 140" width="100%" preserveAspectRatio="none">
-<path d="M0 70 Q125 36 250 70 Q375 36 500 70 Q625 36 750 70 Q875 36 1000 70 Q1125 36 1250 70 Q1375 36 1500 70 Q1625 36 1750 70 Q1875 36 2000 70 L2000 140 L0 140 Z" fill="#00d9ff" opacity="0.35"><animateTransform attributeName="transform" type="translate" from="0 0" to="-1000 0" dur="9s" repeatCount="indefinite"/></path>
-<path d="M0 70 Q125 44 250 70 Q375 44 500 70 Q625 44 750 70 Q875 44 1000 70 Q1125 44 1250 70 Q1375 44 1500 70 Q1625 44 1750 70 Q1875 44 2000 70 L2000 140 L0 140 Z" fill="#7c5cff" opacity="0.45"><animateTransform attributeName="transform" type="translate" from="-1000 8" to="0 8" dur="13s" repeatCount="indefinite"/></path>
-<path d="M0 70 Q125 50 250 70 Q375 50 500 70 Q625 50 750 70 Q875 50 1000 70 Q1125 50 1250 70 Q1375 50 1500 70 Q1625 50 1750 70 Q1875 50 2000 70 L2000 140 L0 140 Z" fill="#ff5ca8" opacity="0.5"><animateTransform attributeName="transform" type="translate" from="0 16" to="-1000 16" dur="17s" repeatCount="indefinite"/></path>
-
-<text x="500" y="105" text-anchor="middle" font-family="'Fira Code','JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace" font-size="15" fill="#ffffff" opacity="0.9">Thanks for visiting  ·  keep building  ✦</text>
-</svg>
