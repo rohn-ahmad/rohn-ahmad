@@ -14,7 +14,6 @@
 <br/>
 
 <img src="./assets/sec-build.svg" width="100%"/>
-<img src="./assets/projects.svg" width="100%"/>
 
 <br/>
 
