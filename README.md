@@ -102,11 +102,11 @@ class Rohaan:
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohn-ahmad&theme=tokyonight&hide_border=true&background=0d1117" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohn-ahmad&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%"/>
 
 </div>
 
