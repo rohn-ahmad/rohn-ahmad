@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Rohaan — CSE engineer and web developer" width="100%"/>
+<img src=".github/assets/header.svg" alt="Rohaan — CSE engineer and web developer" width="100%"/>
 
 <br/>
 
@@ -13,15 +13,15 @@
 
 <br/>
 
-<img src="./assets/sec-build.svg" width="100%"/>
+<img src=".github/assets/sec-build.svg" width="100%"/>
 Project 1 
 Project 2
 
 <br/>
 
-<img src="./assets/sec-stack.svg" width="100%"/>
-<img src="./assets/stack.svg" width="100%"/>
+<img src=".github/assets/sec-stack.svg" width="100%"/>
+<img src=".github/assets/stack.svg" width="100%"/>
 
 <br/>
 
-<a href="mailto:rohaanahmad21dec@gmail.com"><img src="./assets/footer.svg" alt="Let's build something" width="100%"/></a>
+<a href="mailto:rohaanahmad21dec@gmail.com"><img src=".github/assets/footer.svg" alt="Let's build something" width="100%"/></a>
