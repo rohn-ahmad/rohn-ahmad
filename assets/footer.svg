@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="100%">
+<defs><clipPath id="rc"><rect width="1000" height="300" rx="16"/></clipPath>
+<linearGradient id="gt" x1="0" x2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#6b6b73"/></linearGradient>
+<linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<g clip-path="url(#rc)"><rect width="1000" height="300" fill="#000"/>
+<text x="48" y="48" font-family="'JetBrains Mono','Fira Code',SFMono-Regular,Consolas,'Courier New',monospace" font-size="13" letter-spacing="3" fill="#71717a">08 — LET'S TALK</text>
+<circle cx="30" cy="43" r="3.5" fill="#fff"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="48" y="116" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="700" font-size="42" letter-spacing="-1.2" fill="#fff">Let's Build Something Worth Clicking</text>
+<text x="48" y="172" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" fill="#fff">rohaanahmad21dec@gmail.com</text>
+<text x="428" y="172" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" fill="#fff">→<animate attributeName="x" values="428;444;428" dur="1.8s" repeatCount="indefinite"/></text>
+<rect x="48" y="184" width="380" height="1.5" fill="#fff"><animate attributeName="width" values="0;380;380;0" keyTimes="0;0.3;0.8;1" dur="5s" repeatCount="indefinite"/></rect>
+<rect x="0" y="214" width="1000" height="1" fill="#27272a"/>
+<g><text y="248" font-family="'JetBrains Mono','Fira Code',SFMono-Regular,Consolas,'Courier New',monospace" font-size="13" letter-spacing="3" fill="#a1a1aa" xml:space="preserve">CSE ENGINEER  ✦  WEB DEVELOPER  ✦  SINCE 2025  ✦  PORTFOLIO V1  ✦  CSE ENGINEER  ✦  WEB DEVELOPER  ✦  SINCE 2025  ✦  PORTFOLIO V1  ✦  CSE ENGINEER  ✦  WEB DEVELOPER  ✦  SINCE 2025  ✦  PORTFOLIO V1  ✦  CSE ENGINEER  ✦  WEB DEVELOPER  ✦  SINCE 2025  ✦  PORTFOLIO V1  ✦  <animateTransform attributeName="transform" type="translate" from="0 0" to="-1000 0" dur="24s" repeatCount="indefinite"/></text></g>
+<text x="48" y="282" font-family="'JetBrains Mono','Fira Code',SFMono-Regular,Consolas,'Courier New',monospace" font-size="12" fill="#52525b">© 2026 Rohaan Ahmad — Designed &amp; engineered with care</text></g><rect x=".5" y=".5" width="999" height="299" rx="16" fill="none" stroke="#27272a"/></svg>

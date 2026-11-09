@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" width="100%">
+<defs><clipPath id="rc"><rect width="1000" height="400" rx="16"/></clipPath>
+<linearGradient id="gt" x1="0" x2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#6b6b73"/></linearGradient>
+<linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<g clip-path="url(#rc)"><rect width="1000" height="400" fill="#000"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 96;0 192;0 288" calcMode="discrete" dur="10s" repeatCount="indefinite"/>
+<rect x="48" y="9" width="904" height="95" fill="#fff" opacity="0.05"/>
+<rect x="48" y="9" width="3" height="95" fill="#fff"/>
+<text x="936" y="90" text-anchor="end" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="26" fill="#fff">↗</text></g><rect x="48" y="8" width="904" height="1" fill="#27272a"/>
+<text x="56" y="64" font-family="'JetBrains Mono','Fira Code',SFMono-Regular,Consolas,'Courier New',monospace" font-size="14" fill="#71717a">01</text>
+<text x="120" y="58" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="600" font-size="34" letter-spacing="-0.8" fill="#fff">SmartCrete</text>
+<text x="120" y="84" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#a1a1aa">Interactive concrete strength calculator</text>
+<text x="880" y="42" text-anchor="end" font-family="'JetBrains Mono','Fira Code',SFMono-Regular,Consolas,'Courier New',monospace" font-size="13" fill="#71717a">2025</text>
+<text x="880" y="68" text-anchor="end" font-family="'JetBrains Mono','Fira Code',SFMono-Regular,Consolas,'Courier New',monospace" font-size="12" fill="#a1a1aa">python / AI / DataScience</text>
+<rect x="48" y="104" width="904" height="1" fill="#27272a"/>
+<text x="56" y="160" font-family="'JetBrains Mono','Fira Code',SFMono-Regular,Consolas,'Courier New',monospace" font-size="14" fill="#71717a">02</text>
+<text x="120" y="154" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="600" font-size="34" letter-spacing="-0.8" fill="#fff">Campus Connect</text>
+<text x="120" y="180" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#a1a1aa">Student collaboration platform</text>
+<text x="880" y="138" text-anchor="end" font-family="'JetBrains Mono','Fira Code',SFMono-Regular,Consolas,'Courier New',monospace" font-size="13" fill="#71717a">2025</text>
+<text x="880" y="164" text-anchor="end" font-family="'JetBrains Mono','Fira Code',SFMono-Regular,Consolas,'Courier New',monospace" font-size="12" fill="#a1a1aa">React / Node.js / MongoDB</text>
+<rect x="48" y="200" width="904" height="1" fill="#27272a"/>
+<text x="56" y="256" font-family="'JetBrains Mono','Fira Code',SFMono-Regular,Consolas,'Courier New',monospace" font-size="14" fill="#71717a">03</text>
+<text x="120" y="250" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="600" font-size="34" letter-spacing="-0.8" fill="#fff">Raftly</text>
+<text x="120" y="276" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#a1a1aa">Distributed key–value store</text>
+<text x="880" y="234" text-anchor="end" font-family="'JetBrains Mono','Fira Code',SFMono-Regular,Consolas,'Courier New',monospace" font-size="13" fill="#71717a">2024</text>
+<text x="880" y="260" text-anchor="end" font-family="'JetBrains Mono','Fira Code',SFMono-Regular,Consolas,'Courier New',monospace" font-size="12" fill="#a1a1aa">Go / Raft / gRPC</text>
+<rect x="48" y="296" width="904" height="1" fill="#27272a"/>
+<text x="56" y="352" font-family="'JetBrains Mono','Fira Code',SFMono-Regular,Consolas,'Courier New',monospace" font-size="14" fill="#71717a">04</text>
+<text x="120" y="346" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-weight="600" font-size="34" letter-spacing="-0.8" fill="#fff">Pixel Studio</text>
+<text x="120" y="372" font-family="Inter,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" fill="#a1a1aa">Collaborative pixel-art editor</text>
+<text x="880" y="330" text-anchor="end" font-family="'JetBrains Mono','Fira Code',SFMono-Regular,Consolas,'Courier New',monospace" font-size="13" fill="#71717a">2024</text>
+<text x="880" y="356" text-anchor="end" font-family="'JetBrains Mono','Fira Code',SFMono-Regular,Consolas,'Courier New',monospace" font-size="12" fill="#a1a1aa">WebRTC / CRDTs / Canvas</text>
+<rect x="48" y="392" width="904" height="1" fill="#27272a"/></g><rect x=".5" y=".5" width="999" height="399" rx="16" fill="none" stroke="#27272a"/></svg>
