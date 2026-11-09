@@ -35,7 +35,7 @@
 
 <img src="https://streak-stats.demolab.com?user=rohn-ahmad&hide_border=true&background=000000&ring=ff2d2d&fire=ff2d2d&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff2d2d&sideLabels=a1a1aa&dates=71717a&stroke=27272a"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohn-ahmad&bg_color=000000&color=ff2d2d&line=ff2d2d&point=ffffff&area=true&area_color=ff2d2d&hide_border=true&title_color=ffffff" width="100%"/>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohn-ahmad/rohn-ahmad/output/github-snake-dark.svg"/>
