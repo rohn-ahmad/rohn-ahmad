@@ -97,16 +97,11 @@ class Rohaan:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rohn-ahmadE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohn-ahmad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohn-ahmad&theme=tokyonight&hide_border=true&background=0d1117" />
 
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohn-ahmad&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%"/>
 
 </div>
 
